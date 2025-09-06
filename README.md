@@ -9,7 +9,7 @@ Hello, I'm Jan!!
 
 <pre>
 💻 I am mainly a Backend Developer  
-🎓 Technologist in Software Analysis and Development (ADSO)  
+🎓 Technologist in Software Analysis and Development (SENA)  
 📝 Knowledge in Java, Spring Boot, and Microservices  
 ☁️ Knowledge in Cloud Architecture | Learning AWS  
 🛠️ Familiar with Docker, Kubernetes, MySQL & MongoDB  
@@ -26,9 +26,7 @@ Hello, I'm Jan!!
 <p align="center">
 	<a href="jangaray3@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/jan-garay-16849228b/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/</a>
-  <a href="https://www.instagram.com/jangaray18/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
-
+ 
 ## 💻 My Tech Stack
 
 <p>
