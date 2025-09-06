@@ -9,11 +9,11 @@ Hello, I'm Jan!!
 
 <pre>
 💻 I am mainly a Backend Developer  
-🎓 Technologist in Software Analysis and Development (SENA)  
+🎓 Technologist in Software Analysis and Development (ADSO)  
 📝 Knowledge in Java, Spring Boot, and Microservices  
 ☁️ Knowledge in Cloud Architecture | Learning AWS  
 🛠️ Familiar with Docker, Kubernetes, MySQL & MongoDB  
-🌱 Currently learning Angular & React for frontend development  
+🌱 Currently learning more about distributed systems and cloud solutions  
 🌟 Main language: Java 😁  
 🚩 Interested in scalable backend and server-side applications  
 😃 Open to collaborate on impactful projects  
@@ -32,7 +32,7 @@ Hello, I'm Jan!!
 ## 💻 My Tech Stack
 
 <p>
-  <!-- Core Backend -->
+ <!-- Core Backend -->
 <a href="https://www.java.com/"><img alt="JAVA" src="https://img.shields.io/badge/Java-%23FF6F00.svg?logo=java&logoColor=white"></a>
 <a href="https://spring.io/projects/spring-boot"><img alt="SPRING BOOT" src="https://img.shields.io/badge/Spring%20Boot%203-%236DB33F.svg?style=plastic&logo=springboot&logoColor=white"></a>
 <a href="https://spring.io/projects/spring-framework"><img alt="SPRING FRAMEWORK" src="https://img.shields.io/badge/Spring%20Framework%206-%236DB33F.svg?style=plastic&logo=spring&logoColor=white"></a>
@@ -51,12 +51,6 @@ Hello, I'm Jan!!
 <a href="https://aws.amazon.com/ec2/"><img alt="AWS EC2" src="https://img.shields.io/badge/AWS%20EC2-%23FF9900.svg?style=plastic&logo=amazonaws&logoColor=white"></a>
 <a href="https://www.docker.com/"><img alt="DOCKER" src="https://img.shields.io/badge/Docker-%232496ED.svg?style=plastic&logo=docker&logoColor=white"></a>
 <a href="https://kubernetes.io/"><img alt="KUBERNETES" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=plastic&logo=kubernetes&logoColor=white"></a>
-
-<!-- Frontend -->
-<a href="https://angular.io/"><img alt="ANGULAR" src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white"></a>
-<a href="https://reactjs.org/"><img alt="REACT" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=plastic&logo=react&logoColor=black"></a>
-<a href=""><img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"></a>
-<a href=""><img alt="CSS" src="https://img.shields.io/badge/CSS-%231572B6.svg?style=plastic&logo=css3&logoColor=white"></a>
 
 <!-- Tools -->
 <a href="https://www.postman.com/"><img alt="POSTMAN" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=plastic&logo=postman&logoColor=white"></a>
