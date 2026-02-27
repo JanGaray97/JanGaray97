@@ -26,7 +26,7 @@ Hello, I'm Jan!!
 <p align="center">
 	<a href="jangaray3@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/jan-garay-16849228b/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/</a> 
-	<a href="https://wa.me/573137690230"><img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+	<a href="https://wa.me/573207715906"><img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
 
  
